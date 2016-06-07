@@ -9,13 +9,14 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ylqjgm/SCDht/models"
+	"github.com/cnwanghao/SCDht/models"
 	"gopkg.in/mgo.v2/bson"
 )
 
 type File struct {
 	Path   string // 文件路径
 	Length int64  // 文件长度
+	
 }
 
 // 种子入库操作

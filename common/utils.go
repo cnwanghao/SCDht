@@ -17,7 +17,7 @@ import (
 	"github.com/astaxie/beego"
 	"github.com/beego/i18n"
 	"github.com/wangbin/jiebago"
-	"github.com/ylqjgm/SCDht/models"
+	"github.com/cnwanghao/SCDht/models"
 	"github.com/zeebo/bencode"
 	"gopkg.in/mgo.v2/bson"
 )

@@ -3,9 +3,9 @@ package main
 import (
 	"github.com/astaxie/beego"
 	"github.com/beego/i18n"
-	"github.com/ylqjgm/SCDht/common"
-	"github.com/ylqjgm/SCDht/controllers"
-	"github.com/ylqjgm/SCDht/models"
+	"github.com/cnwanghao/SCDht/common"
+	"github.com/cnwanghao/SCDht/controllers"
+	"github.com/cnwanghao/SCDht/models"
 )
 
 func main() {

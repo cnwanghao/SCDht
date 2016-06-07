@@ -18,7 +18,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ylqjgm/SCDht/models"
+	"github.com/cnwanghao/SCDht/models"
 	"github.com/zeebo/bencode"
 	"gopkg.in/mgo.v2/bson"
 )

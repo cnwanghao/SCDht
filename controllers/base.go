@@ -6,8 +6,8 @@ import (
 
 	"github.com/astaxie/beego"
 	"github.com/beego/i18n"
-	"github.com/ylqjgm/SCDht/common"
-	"github.com/ylqjgm/SCDht/models"
+	"github.com/cnwanghao/SCDht/common"
+	"github.com/cnwanghao/SCDht/models"
 	"gopkg.in/mgo.v2/bson"
 )
 
